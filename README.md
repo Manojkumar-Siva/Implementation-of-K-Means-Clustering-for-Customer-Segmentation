@@ -80,6 +80,8 @@ plt.title("Customer Segments")
 ![](./o5.jpg)
 ## Elbow Method:
 ![](./o4.jpg)
+## K-means:
+![](./o8.jpg)
 ## Cluster:
 ![](./o6.jpg)
 
